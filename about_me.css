@@ -90,5 +90,15 @@ body{
   
   main {
     color: #05ba00;
+    text-align: center;
+  }
+
+  h1 {
     background-color: #fdf7e6;
+    padding: 20px;
+    text-align: center;
+  }
+
+  h5 {
+    text-align: center;
   }

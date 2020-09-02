@@ -107,3 +107,18 @@ body{
 main {
   list-style: none;
 }
+
+ul {
+  color: #05ba00;
+  background-color: #fdf7e6;
+  text-align: center;
+  list-style: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
