@@ -1,10 +1,6 @@
 body{
-<<<<<<< HEAD
   font-family: 'Righteous', cursive;
-=======
   font-family: 'Righteous';
-  margin: 10px; padding: 20px
->>>>>>> 677401515954f516a1ea2995226e088b9a632e9e
 }
 
 h1 {
@@ -98,55 +94,3 @@ a {
     display: flex;
   }
 }
-
-=======
-}
-
-.navbar__icons li {
-  padding: 8px 12px;
-}
-
-.navbar__togglebtn {
-  display: none;
-  position: absolute;
-  right: 38px;
-  font-size: 24px;
-  color: #05ba00;
-}
-
-@media screen and (max-width: 768px) {
-  .navbar {
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 8px 24px;
-  }
-
-  .navbar__menu {
-    display: none;
-    flex-direction: column;
-    width: 100%;
-    align-items: center;
-  }
-
-  .navbar__menu li{
-    width: 100%;
-    text-align: center;
-  }
-
-  .navbar__icons {
-    display: none;
-    justify-content: center;
-    width: 100%;
-
-  }
-
-  .navbar__togglebtn {
-    display: block;
-  }
-
-  .navbar__menu.active,
-  .navbar__icons.active {
-    display: flex;
-  }
-}
->>>>>>> 677401515954f516a1ea2995226e088b9a632e9e
