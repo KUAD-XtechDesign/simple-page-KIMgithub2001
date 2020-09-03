@@ -110,7 +110,12 @@ form {
   margin-bottom: 16px;
 }
 
-input {
-  height: 45px;
+h1 {
+  text-align: center;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
