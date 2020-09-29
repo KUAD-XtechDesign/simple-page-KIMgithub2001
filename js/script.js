@@ -1,4 +1,3 @@
-
 $(function(){
   
   $("#slide").slick({dots:true});
@@ -7,4 +6,12 @@ $(function(){
   //   $("#slide").slideToggle();
   // })
 
+});
+
+$('.one-time').slick({
+  dots: true,
+  infinite: true,
+  speed: 300,
+  slidesToShow: 1,
+  adaptiveHeight: true
 });
