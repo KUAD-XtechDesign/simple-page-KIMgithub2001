@@ -1,0 +1,21 @@
+
+body{
+  background-color: #DCDCDC;
+  font-family: 'Anton', sans-serif;
+  /* background-image: url(../images/back.png);
+  background-repeat: repeat;
+  background-size: 20px 20px; */
+}
+
+.wrapper{
+  width: 1000px;
+  background-color: #DCDCDC;
+  margin: 30px auto;
+  text-align: center;
+  color: #F1FC71;
+  font-size: 35px;
+}
+
+img{
+  max-width: 100%;
+}
